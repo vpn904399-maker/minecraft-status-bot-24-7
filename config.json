@@ -3,7 +3,7 @@
         "presence": {
             "status": "online",
             "activities": [{
-                "name": "Hypixel Server",
+                "name": "Minecraft Status",
                 "type": "WATCHING"
             }]
         }
@@ -13,8 +13,8 @@
             "name": "NAMMA OORU",
             "ip": "titan.primemc.in",
             "port": 25510,
-            "channelId": "1361757965014798526",
-            "messageId": "1361782035923992848",
+            "channelId": "1443124334880227388",
+            "messageId": "1450371206804017162",
             "updateInterval": 30000,
             "display": {
                 "type": "banner",
