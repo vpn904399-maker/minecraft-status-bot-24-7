@@ -10,9 +10,9 @@
     },
     "minecraft": {
         "servers": [{
-            "name": "Hypixel",
-            "ip": "hypixel.net",
-            "port": 25565,
+            "name": "NAMMA OORU",
+            "ip": "titan.primemc.in",
+            "port": 25510,
             "channelId": "1361757965014798526",
             "messageId": "1361782035923992848",
             "updateInterval": 30000,
